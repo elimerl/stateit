@@ -3,7 +3,7 @@
 ![npm bundle size](https://img.shields.io/bundlephobia/min/stateit?style=flat-square)
 ![npm](https://img.shields.io/npm/v/stateit?style=flat-square)
 
-stateit is a library for handling extra state on objects.
+stateit is a library for handling arbitrary state on objects.
 
 ## Example
 

@@ -1,6 +1,6 @@
 {
-	"name": "project-name",
-	"description": "description",
+	"name": "stateit",
+	"description": "A library for handling arbitrary state on objects.",
 	"authors": "elimerl",
 	"version": "1.0.0",
 	"main": "lib/index.js",
@@ -20,5 +20,8 @@
 		"require": [
 			"ts-node/register"
 		]
-	}
+	},
+	"files": [
+		"lib"
+	]
 }
