@@ -2,7 +2,7 @@
 	"name": "stateit",
 	"description": "A library for handling arbitrary state on objects.",
 	"authors": "elimerl",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "lib/index.js",
 	"devDependencies": {
 		"ava": "^3.15.0",
